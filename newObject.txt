@@ -2,5 +2,5 @@
 "data_url":"https://www.baidu.com",
 "type":"success",
 "NavIsClose":"no",
-"AppIsClose":"no"
+"AppIsClose":"yes"
 }
