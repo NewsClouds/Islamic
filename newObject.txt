@@ -1,7 +1,7 @@
 {
 "data_url":"https://www.baidu.com",
 "type":"success",
-"NavIsClose":"yes",
+"NavIsClose":"no",
 "AppIsClose":"no"
 }
 
