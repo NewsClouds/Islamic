@@ -1,5 +1,6 @@
 {
-"Data":"https://www.baidu.com",
-"Message":"success",
-"StatusCode":300
+"data_url":"https://www.baidu.com",
+"type":"success",
+"NavIsClose":no,
+"AppIsClose":"yes"
 }
