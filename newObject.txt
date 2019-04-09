@@ -2,7 +2,7 @@
 "data_url":"https://www.baidu.com",
 "type":"success",
 "NavIsClose":"yes",
-"AppIsClose":"yes"
+"AppIsClose":"no"
 }
 
 //
