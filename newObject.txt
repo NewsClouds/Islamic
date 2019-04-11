@@ -2,5 +2,6 @@
 "data_url":"https://www.baidu.com",
 "type":"success",
 "NavIsClose":"no",
-"AppIsClose":"yes"
+"AppIsClose":"yes",
+"Explain":"data_url:url, AppIsClose: yes(close) no(open), NavIsClose:yes(hidden=yes) no(hidden=no)"
 }
